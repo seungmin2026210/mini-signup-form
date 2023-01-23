@@ -48,7 +48,6 @@ th{
 
 #list fieldset {
    border: 1px solid white;
-   margin-bottom: 30px;
 }
 
 #mypage ul li {
@@ -74,7 +73,7 @@ th{
 }
 
 #list button {
-   margin-top: 10px;
+   margin-top: 30px;
    width: 70%;
    height: 50px;
    border: 0;
@@ -82,10 +81,9 @@ th{
    border-radius: 40px;
    background: linear-gradient(to left, rgb(242, 87, 135),
       rgb(255, 155, 47));
-   color: white;
+   color:white;
    font-size: 1.2em;
    letter-spacing: 2px;
-   margin-bottom: 10px;
 }
 
 #list button:hover {

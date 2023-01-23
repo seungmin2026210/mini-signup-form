@@ -51,8 +51,7 @@
          <div class="delete">
                       <a href="delete.jsp">회원 탈퇴</a>
                   </div>
-         
-         
+
       </fieldset>
    </form>
 

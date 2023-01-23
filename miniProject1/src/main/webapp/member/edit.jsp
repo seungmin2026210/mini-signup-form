@@ -42,7 +42,7 @@
 			</ul>
 			<div class="submit">
 				<button type="submit" onclick="location.href = 'edit.jsp' ">수정</button>
-				<button type="submit" onclick="location.href = 'main.jsp' ">이전으로
+				<button type="submit" onclick="location.href = 'myPage.jsp' ">이전으로
 					돌아가기</button>
 			</div>
 		</fieldset>
