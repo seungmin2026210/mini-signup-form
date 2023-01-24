@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 * {
    margin: 0px auto;
    padding: 0px;
@@ -25,13 +26,13 @@ h3 {
 
 table {
    width: 100%;
-    border-top: 1px solid orange;
-    border-collapse: collapse;
+   border-top: 1px solid orange;
+   border-collapse: collapse;
 }
 
 th, td {
-    border-bottom: 1px solid orange;
-    padding: 5px;
+   border-bottom: 1px solid orange;
+   padding: 5px;
   }
 
 th{
@@ -43,47 +44,25 @@ th{
    border: 1px solid #222;
    border-radius: 10px;
    padding: 10px;
-   width: 350px;
+   width: 600px; 
 }
 
 #list fieldset {
    border: 1px solid white;
 }
 
-#mypage ul li {
-   line-height: 30px;
-   list-style-type: none;
-   padding: 5px 10px;
-   margin-top: 15px;
-   margin-bottom: 5px;
-}
-
-#list label {
-   width: 80px;
-   font-size: 15px;
-   float: left;
-}
-
-#list input:not([type=submit], [type=radio]) {
-   border: 1px solid #ccc;
-   border-radius: 3px;
-   font-size: 13px;
-   padding: 5px;
-   width: 200px;
-}
-
 #list button {
    margin-top: 30px;
-   width: 70%;
+   width: 35%;
    height: 50px;
    border: 0;
    outline: none;
    border-radius: 40px;
-   background: linear-gradient(to left, rgb(242, 87, 135),
-      rgb(255, 155, 47));
+   background: linear-gradient(to left, rgb(242, 87, 135), rgb(255, 155, 47));
    color:white;
    font-size: 1.2em;
    letter-spacing: 2px;
+   margin-bottom: 10px;
 }
 
 #list button:hover {
